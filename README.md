@@ -19,6 +19,18 @@ gcc rail.c -o rail
 Train 101 has only 2 seats, so the third booking goes to the waiting list. When PNR 1001 is cancelled, the waiting passenger gets the seat.
 
 ```
+===== RAILWAY TICKET RESERVATION SYSTEM =====
+1.Train Management
+2.Passenger Management
+3.Ticket Reservation
+4.Modify Reservation
+5.Ticket Cancellation
+6.Seat Availability
+7.Waiting List Management
+8.Reservation History
+9.Display All Records
+10.Exit
+
 Enter your choice: 3
 Passenger id: 10
 Train number: 101
